@@ -1,0 +1,122 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [7 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Title <FEFF0064006F00630075006D0065006E0074> /Producer (CodeShack Text to PDF Converter) /CreationDate (D:20261014093726Z) >>
+endobj
+4 0 obj
+<< /Font << /F1 5 0 R >> >>
+endobj
+5 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica /Encoding /WinAnsiEncoding >>
+endobj
+6 0 obj
+<< /Length 2111 >>
+stream
+BT
+0 g
+/F1 12 Tf
+1 0 0 1 56.69 773.2 Tm
+(Sample Document: Artificial Intelligence) Tj
+0 g
+/F1 12 Tf
+1 0 0 1 56.69 756.64 Tm
+(1. Introduction) Tj
+0 g
+/F1 12 Tf
+1 0 0 1 56.69 735.88 Tm
+(Artificial Intelligence \(AI\) is a field of computer science focused on building systems that) Tj
+0 g
+/F1 12 Tf
+1 0 0 1 56.69 719.32 Tm
+(can perform tasks requiring human intelligence, such as understanding language,) Tj
+0 g
+/F1 12 Tf
+1 0 0 1 56.69 702.76 Tm
+(recognizing images, and solving problems.) Tj
+0 g
+/F1 12 Tf
+1 0 0 1 56.69 682 Tm
+(2. Machine Learning) Tj
+0 g
+/F1 12 Tf
+1 0 0 1 56.69 661.24 Tm
+(Machine Learning \(ML\) is a subset of AI. A machine-learning model learns patterns from) Tj
+0 g
+/F1 12 Tf
+1 0 0 1 56.69 644.68 Tm
+(examples in data. Common applications include spam detection, product) Tj
+0 g
+/F1 12 Tf
+1 0 0 1 56.69 628.12 Tm
+(recommendations, and forecasting.) Tj
+0 g
+/F1 12 Tf
+1 0 0 1 56.69 607.36 Tm
+(3. Retrieval-Augmented Generation \(RAG\)) Tj
+0 g
+/F1 12 Tf
+1 0 0 1 56.69 586.6 Tm
+(RAG combines information retrieval with a language model. First, the system searches) Tj
+0 g
+/F1 12 Tf
+1 0 0 1 56.69 570.04 Tm
+(documents for passages relevant to a question. Then it provides those passages to the) Tj
+0 g
+/F1 12 Tf
+1 0 0 1 56.69 553.48 Tm
+(language model as context to generate an answer grounded in the retrieved information.) Tj
+0 g
+/F1 12 Tf
+1 0 0 1 56.69 532.72 Tm
+(4. Embeddings and Vector Stores) Tj
+0 g
+/F1 12 Tf
+1 0 0 1 56.69 511.96 Tm
+(An embedding represents text as a list of numbers. A vector store saves embeddings and) Tj
+0 g
+/F1 12 Tf
+1 0 0 1 56.69 495.4 Tm
+(associated text so that semantically relevant passages can be retrieved.) Tj
+0 g
+/F1 12 Tf
+1 0 0 1 56.69 474.64 Tm
+(5. Limitations) Tj
+0 g
+/F1 12 Tf
+1 0 0 1 56.69 453.88 Tm
+(A RAG system can retrieve irrelevant information and generate incorrect answers. Good) Tj
+0 g
+/F1 12 Tf
+1 0 0 1 56.69 437.32 Tm
+(chunking, retrieval settings, and clear prompts can improve reliability. If the document) Tj
+0 g
+/F1 12 Tf
+1 0 0 1 56.69 420.76 Tm
+(does not contain an answer, the system should say so rather than inventing facts.) Tj
+ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Resources 4 0 R /Contents 6 0 R >>
+endobj
+xref
+0 8
+0000000000 65535 f
+0000000015 00000 n
+0000000064 00000 n
+0000000121 00000 n
+0000000266 00000 n
+0000000309 00000 n
+0000000406 00000 n
+0000002568 00000 n
+trailer
+<< /Size 8 /Root 1 0 R /Info 3 0 R >>
+startxref
+2678
+%%EOF
